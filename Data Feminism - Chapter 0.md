@@ -35,3 +35,9 @@
 ## What Is Data Feminism?
 
 ## Data Feminism in Action
+
+
+
+注释：
+
+* 《女性的奥秘》：英文名为《The Feminine Mystique》，作者为 [Betty Friedan](https://wwnorton.com/author/FRIEDANBETTY/bettyfriedan) Kirsten Fermaglich (Editor, Michigan State University), Lisa Fine (Editor, Michigan State University)。The Feminine Mystique forever changed America’s consciousness by defining “the problem that has no name.”
